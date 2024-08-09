@@ -1,4 +1,4 @@
 # GoGirl Application.
-Go Girl is a networking application for women, where women can connect and share posts, ideas and get mentorship from with like-minded people. Our application provides also AI Chatbot for emotional guidance.
+Go Girl is a networking application that allows women to interact with like-minded others, exchange articles and ideas, and receive mentoring. Additionally, our software offers an AI chatbot for emotional support.
 
 Created By: Zoha Surti and Nibha Bharati
