@@ -1,0 +1,74 @@
+.rightbarStyle {
+    height: calc(100vh - 50px);
+    overflow-y: scroll;
+    position: sticky;
+    top: 50px;
+    border-radius: 2%;
+    background-image: linear-gradient(to right top, #008e9b, #008ea7, #008cb3, #008abd, #0087c6, #1183ca, #247fce, #377ad0, #4e74cf, #626ecc, #7466c8, #845ec2);
+}
+
+.mentFeatures {
+    height: calc(calc(100vh - 50px)/2);
+    width: auto;
+    background: rgba(255, 255, 255, 0.1);
+    margin-top: 15px;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    color: black;
+    font-weight: 800;
+}
+
+.AIFeatures {
+    height: 100px;
+    width: auto;
+    background-image: linear-gradient(to left bottom, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+    margin-top: 150px;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    color: black;
+    font-weight: 800;
+}
+
+.commButton {
+    margin-left: 0px;
+    color: white;
+    padding: 10px;
+  }
+  
+  .buttonItems {
+    display: flex;
+    align-items: center;
+    height: auto;
+    width: 200px;
+    margin-bottom: 10px;
+    background-color: #8042DB;
+    border-radius: 20px 20px 20px 20px;
+    font-weight: 700;
+  }
+  
+  .createIcon {
+    color: white;
+    font-size: 20px;
+    margin-left: 10px;
+  }
+  
+  .buttonItems:hover {
+    background-color: black;
+  }
+    
+  .buttonBox {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 15px;
+    margin-bottom: 20px;
+  }
+  
